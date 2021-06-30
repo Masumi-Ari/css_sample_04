@@ -1,0 +1,37 @@
+body {
+  background-color: silver;
+  background-image : url("images/_DSC0578.jpg");
+  background-size: 100%;
+}
+
+#container {
+  width: 800px;
+  margin: auto;
+  background-color: white;
+}
+
+header {
+  padding: 40px;
+  height: 80px;
+  font-size: 20px;
+  background-image : url("images/_DSC0593.jpg");
+  background-size: 100%
+}
+
+nav {
+  padding: 8px 40px;
+  background-color: #faebd7;
+  color: #d2691e;
+}
+
+article {
+  padding: 40px;
+  min-height : 400px;
+}
+
+footer {
+  padding: 40px;
+  height: 40px;
+  background-color : #faebd7;
+  color: #d2691e;
+}
