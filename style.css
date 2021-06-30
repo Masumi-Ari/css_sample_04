@@ -1,7 +1,7 @@
 body {
-  background-color: silver;
   background-image : url("images/_DSC0578.jpg");
   background-size: 100%;
+  background-repeat:no-repeat;
 }
 
 #container {
@@ -16,6 +16,7 @@ header {
   font-size: 20px;
   background-image : url("images/_DSC0593.jpg");
   background-size: 100%
+  background-repeat:no-repeat;
 }
 
 nav {
