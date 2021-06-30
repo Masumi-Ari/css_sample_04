@@ -1,7 +1,7 @@
 body {
-  background-image : url("images/_DSC0578.jpg");
+  background-image: url("images/BG_image01.jpg");
   background-size: 100%;
-  background-repeat:no-repeat;
+   background-repeat: no-repeat;
 }
 
 #container {
@@ -14,9 +14,9 @@ header {
   padding: 40px;
   height: 80px;
   font-size: 20px;
-  background-image : url("images/_DSC0593.jpg");
+  background-image: url("images/BG_image02.jpg");
   background-size: 100%
-  background-repeat:no-repeat;
+   background-repeat: no-repeat;
 }
 
 nav {
